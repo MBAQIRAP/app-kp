@@ -1,0 +1,12 @@
+.social-feeds {
+    margin-right: 60px;
+    max-width: 1400px;
+    padding: 5px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 15px;
+    transition: width 2s, height 4s;
+}
+
+p{
+    margin-bottom: 0 !important;
+}
